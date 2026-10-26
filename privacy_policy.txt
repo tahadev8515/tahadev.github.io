@@ -1,0 +1,47 @@
+PRIVACY POLICY FOR DRAW TO DEFEND
+Last Updated: October 24, 2026
+Developer: tggames
+Contact Email: tahadev8515@gmail.com
+Package Name: com.tggames.drawtodefend
+
+1. INTRODUCTION
+Welcome to Draw to Defend ("we", "our", or "the game"), developed by tggames. We respect the privacy of our players and are committed to protecting your personal information. This Privacy Policy explains how our game collects, uses, and safeguards information when you install and play Draw to Defend.
+
+2. INFORMATION WE COLLECT
+a. Non-Personal Information:
+- Device Information: Device model, operating system version, screen resolution, language settings, and general diagnostic information.
+- Gameplay Data: Level progression, high scores, stars earned, game achievements, and in-game preferences (sound and music volume). This data is stored locally on your device and may be synced via Google Play Games Services if you choose to sign in.
+
+b. Third-Party Services:
+- Google AdMob: We use Google AdMob to display banner, interstitial, app open, and rewarded video ads. Google AdMob may collect and process device identifiers (such as Android Advertising ID), IP address, and interaction data to serve relevant or non-personalized advertisements in compliance with Google Play Developer policies.
+- Google Play Games Services: If you sign in to Google Play Games, your account identifier, achievements, and leaderboard scores are processed by Google in accordance with Google's Privacy Policy (https://policies.google.com/privacy).
+
+3. HOW WE USE YOUR INFORMATION
+We use the collected information exclusively to:
+- Enable core gameplay features, save your puzzle progress, and record level scores.
+- Provide cross-device synchronization of achievements and leaderboards via Google Play Games.
+- Deliver advertisement impressions that keep the game free to play.
+- Monitor stability, diagnose crashes, and improve game performance.
+
+4. CHILDREN'S PRIVACY (COPPA & FAMILIES POLICY)
+Draw to Defend complies with Google Play's Families Policy and the Children's Online Privacy Protection Act (COPPA). We do not knowingly collect personal information from children under the age of 13. All advertising SDKs are configured in accordance with applicable child-directed advertising guidelines.
+
+5. ADVERTISING & USER CHOICE
+You can manage your ad preferences and reset your Advertising ID via your Android device settings:
+- Settings > Google > Ads > Reset advertising ID or Delete advertising ID.
+Rewarded ads in our game are always optional and require your explicit tap to view in exchange for in-game hints or level unlocks.
+
+6. DATA SECURITY
+We employ industry-standard security measures to protect game data stored on your device and transmitted to Google Play services.
+
+7. DATA RETENTION AND DELETION
+You can reset your in-game progress at any time through the in-game Settings menu. To delete cloud leaderboard scores, you may manage your Google Play Games profile settings directly.
+
+8. CHANGES TO THIS PRIVACY POLICY
+We may update our Privacy Policy periodically. We will notify players of any changes by updating the "Last Updated" date at the top of this document and within the in-game settings screen.
+
+9. CONTACT US
+If you have questions, concerns, or requests regarding this Privacy Policy, please contact us at:
+Developer: tggames
+Email: tahadev8515@gmail.com
+App: Draw to Defend
